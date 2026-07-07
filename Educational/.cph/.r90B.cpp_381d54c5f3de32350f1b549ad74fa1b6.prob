@@ -1,0 +1,1 @@
+{"name":"Local: r90B","url":"e:\\CF-26\\Educational\\r90B.cpp","tests":[{"id":1783430268829,"input":"3\n01\n1111\n0011\n","output":"DA\nNET\nNET\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CF-26\\Educational\\r90B.cpp","group":"local","local":true}
