@@ -1,0 +1,1 @@
+{"name":"Local: r116A","url":"e:\\CF-26\\Educational\\r116A.cpp","tests":[{"id":1783525573425,"input":"4\nb\naabbbabaa\nabbb\nabbaab\n","output":"b\naabbbabaa\nbbbb\nabbaaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CF-26\\Educational\\r116A.cpp","group":"local","local":true}

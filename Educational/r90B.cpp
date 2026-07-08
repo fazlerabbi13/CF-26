@@ -19,7 +19,7 @@ void solve()
         }
     }
 
-    int operation = min(zeroCount, oneCount);
+    int operation = max(zeroCount, oneCount);
 
     if (operation % 2 == 1)
     {
@@ -34,7 +34,7 @@ void solve()
 int main()
 {
     ios_base::sync_with_stdio(0);
-    cin.tie();
+    cin.tie(0);
 
     int t;
     cin >> t;
