@@ -1,0 +1,1 @@
+{"name":"Local: r748B","url":"e:\\CF-26\\Div3\\r748B.cpp","tests":[{"id":1783605189341,"input":"5\n100\n71345\n3259\n50555\n2050047\n","output":"0\n3\n1\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CF-26\\Div3\\r748B.cpp","group":"local","local":true}
