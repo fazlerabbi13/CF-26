@@ -1,0 +1,1 @@
+{"name":"Local: r1109A","url":"e:\\CF-26\\Div3\\r1109A.cpp","tests":[{"id":1784041607887,"input":"5\n7\n#*##*##\n8\n########\n8\n********\n8\n#*****##\n6\n*#####\n","output":"1\n4\n0\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CF-26\\Div3\\r1109A.cpp","group":"local","local":true}
